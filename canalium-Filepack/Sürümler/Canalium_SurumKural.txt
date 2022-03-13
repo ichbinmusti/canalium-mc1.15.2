@@ -1,1 +1,0 @@
-Bu sürümlerin hepsi 1.15.2 içindir
